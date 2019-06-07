@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.column {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  background-color: #d3d3f3;
+  padding: 20px 0 10px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+blockquote {
+  font-style: italic;
+  line-height: 1.5;
+  font-size: 23px;
+  margin: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid grey;
+}
+
+img {
+  width: 100%;
+}
