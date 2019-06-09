@@ -58,4 +58,10 @@ hr {
 
 img {
   width: 100%;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.2;
 }
