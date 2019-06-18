@@ -1,6 +1,6 @@
 # microfrontends.com
 
-This is the source code for [microfrontends.com](microfrontends.com).
+This is the source code for [microfrontends.com](https://microfrontends.com).
 
 It's just a plain old static site, hosted on netlify.
 
